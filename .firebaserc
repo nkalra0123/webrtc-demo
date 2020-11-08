@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "fir-rtc-89b99",
+    "prod": "webrtc-demo-85ed1"
+  }
+}
